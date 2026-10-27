@@ -1,0 +1,92 @@
+[
+  {
+    "id": "INS-001",
+    "name": "Sarah Wijaya",
+    "email": "sarah.wijaya@example.com",
+    "phone": "+62 812-1000-0001",
+    "employmentStatus": "full-time",
+    "specialization": "Mathematics",
+    "joinedAt": "2024-07-15"
+  },
+  {
+    "id": "INS-002",
+    "name": "Budi Santoso",
+    "email": "budi.santoso@example.com",
+    "phone": "+62 812-1000-0002",
+    "employmentStatus": "part-time",
+    "specialization": "English",
+    "joinedAt": "2024-09-01"
+  },
+  {
+    "id": "INS-003",
+    "name": "Nadia Pratama",
+    "email": "nadia.pratama@example.com",
+    "phone": "+62 812-1000-0003",
+    "employmentStatus": "freelance",
+    "specialization": "Science",
+    "joinedAt": "2025-01-10"
+  },
+  {
+    "id": "INS-004",
+    "name": "Rizky Nugroho",
+    "email": "rizky.nugroho@example.com",
+    "phone": "+62 812-1000-0004",
+    "employmentStatus": "full-time",
+    "specialization": "Mathematics",
+    "joinedAt": "2023-11-20"
+  },
+  {
+    "id": "INS-005",
+    "name": "Maya Lestari",
+    "email": "maya.lestari@example.com",
+    "phone": "+62 812-1000-0005",
+    "employmentStatus": "part-time",
+    "specialization": "Bahasa Indonesia",
+    "joinedAt": "2024-03-05"
+  },
+  {
+    "id": "INS-006",
+    "name": "Fajar Hidayat",
+    "email": "fajar.hidayat@example.com",
+    "phone": "+62 812-1000-0006",
+    "employmentStatus": "freelance",
+    "specialization": "Coding",
+    "joinedAt": "2025-02-17"
+  },
+  {
+    "id": "INS-007",
+    "name": "Intan Permata",
+    "email": "intan.permata@example.com",
+    "phone": "+62 812-1000-0007",
+    "employmentStatus": "full-time",
+    "specialization": "English",
+    "joinedAt": "2023-08-08"
+  },
+  {
+    "id": "INS-008",
+    "name": "Dimas Saputra",
+    "email": "dimas.saputra@example.com",
+    "phone": "+62 812-1000-0008",
+    "employmentStatus": "part-time",
+    "specialization": "Science",
+    "joinedAt": "2024-06-12"
+  },
+  {
+    "id": "INS-009",
+    "name": "Citra Maharani",
+    "email": "citra.maharani@example.com",
+    "phone": "+62 812-1000-0009",
+    "employmentStatus": "freelance",
+    "specialization": "Mathematics",
+    "joinedAt": "2025-04-01"
+  },
+  {
+    "id": "INS-010",
+    "name": "Arif Kusuma",
+    "email": "arif.kusuma@example.com",
+    "phone": "+62 812-1000-0010",
+    "employmentStatus": "full-time",
+    "specialization": "Bahasa Indonesia",
+    "joinedAt": "2023-05-22"
+  }
+]

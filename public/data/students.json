@@ -1,0 +1,146 @@
+[
+  {
+    "id": "STU-001",
+    "name": "Alya Putri",
+    "guardianName": "Rina Putri",
+    "contact": "+62 813-2000-0001"
+  },
+  {
+    "id": "STU-002",
+    "name": "Bima Aditya",
+    "guardianName": "Dedi Aditya",
+    "contact": "+62 813-2000-0002"
+  },
+  {
+    "id": "STU-003",
+    "name": "Chloe Tan",
+    "guardianName": "Melissa Tan",
+    "contact": "+62 813-2000-0003"
+  },
+  {
+    "id": "STU-004",
+    "name": "Danu Prakoso",
+    "guardianName": "Wawan Prakoso",
+    "contact": "+62 813-2000-0004"
+  },
+  {
+    "id": "STU-005",
+    "name": "Elina Sari",
+    "guardianName": "Nur Sari",
+    "contact": "+62 813-2000-0005"
+  },
+  {
+    "id": "STU-006",
+    "name": "Farhan Malik",
+    "guardianName": "Imran Malik",
+    "contact": "+62 813-2000-0006"
+  },
+  {
+    "id": "STU-007",
+    "name": "Gita Maharani",
+    "guardianName": "Ayu Maharani",
+    "contact": "+62 813-2000-0007"
+  },
+  {
+    "id": "STU-008",
+    "name": "Haris Setiawan",
+    "guardianName": "Eko Setiawan",
+    "contact": "+62 813-2000-0008"
+  },
+  {
+    "id": "STU-009",
+    "name": "Ines Kurnia",
+    "guardianName": "Dewi Kurnia",
+    "contact": "+62 813-2000-0009"
+  },
+  {
+    "id": "STU-010",
+    "name": "Jovan Lie",
+    "guardianName": "Hendra Lie",
+    "contact": "+62 813-2000-0010"
+  },
+  {
+    "id": "STU-011",
+    "name": "Kirana Dewi",
+    "guardianName": "Sari Dewi",
+    "contact": "+62 813-2000-0011"
+  },
+  {
+    "id": "STU-012",
+    "name": "Leo Hartanto",
+    "guardianName": "Budi Hartanto",
+    "contact": "+62 813-2000-0012"
+  },
+  {
+    "id": "STU-013",
+    "name": "Mia Anggraini",
+    "guardianName": "Lestari Anggraini",
+    "contact": "+62 813-2000-0013"
+  },
+  {
+    "id": "STU-014",
+    "name": "Naufal Rizky",
+    "guardianName": "Faisal Rizky",
+    "contact": "+62 813-2000-0014"
+  },
+  {
+    "id": "STU-015",
+    "name": "Olivia Chen",
+    "guardianName": "Steven Chen",
+    "contact": "+62 813-2000-0015"
+  },
+  {
+    "id": "STU-016",
+    "name": "Putra Wibowo",
+    "guardianName": "Agus Wibowo",
+    "contact": "+62 813-2000-0016"
+  },
+  {
+    "id": "STU-017",
+    "name": "Qiana Salsabila",
+    "guardianName": "Nadia Salsabila",
+    "contact": "+62 813-2000-0017"
+  },
+  {
+    "id": "STU-018",
+    "name": "Rafi Maulana",
+    "guardianName": "Yusuf Maulana",
+    "contact": "+62 813-2000-0018"
+  },
+  {
+    "id": "STU-019",
+    "name": "Sinta Amelia",
+    "guardianName": "Rudi Amelia",
+    "contact": "+62 813-2000-0019"
+  },
+  {
+    "id": "STU-020",
+    "name": "Tommy Gunawan",
+    "guardianName": "Linda Gunawan",
+    "contact": "+62 813-2000-0020"
+  },
+  {
+    "id": "STU-021",
+    "name": "Ulfa Rahmawati",
+    "guardianName": "Hendra Rahmawati",
+    "contact": "+62 813-2000-0021"
+  },
+  {
+    "id": "STU-022",
+    "name": "Vino Alamsyah",
+    "guardianName": "Taufik Alamsyah",
+    "contact": "+62 813-2000-0022"
+  },
+  {
+    "id": "STU-023",
+    "name": "Wulan Safitri",
+    "guardianName": "Dewi Safitri",
+    "contact": "+62 813-2000-0023"
+  },
+  {
+    "id": "STU-024",
+    "name": "Yoga Pratama",
+    "guardianName": "Bagus Pratama",
+    "contact": "+62 813-2000-0024"
+  }
+]
